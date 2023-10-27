@@ -1,0 +1,22 @@
+body{
+    background-color: Blue;
+    font-size: 110%;
+    color: white;
+    font-family: Georgia;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    text-align: center;    
+}
+a{
+   color:white; 
+
+}
+li{
+    text-indent: 5%;
+}
