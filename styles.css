@@ -1,9 +1,18 @@
 body{
-    background-color: Blue;
     font-size: 110%;
     color: white;
     font-family: Georgia;
-    
+    background-color: blue;
+    text-align: center;
+}
+#bill{
+    color: black;
+    text-shadow: 2px 2px 2px white;
+
+}
+#wrapper{
+    margin: auto;
+    background-image: linear-gradient(to bottom, white,blue);
 }
 
 h1{
@@ -19,4 +28,19 @@ a{
 }
 li{
     text-indent: 5%;
+}
+
+nav{
+    text-align: center;
+    
+}
+header{
+    border-style: solid;
+    border-color: black;
+    color: black;
+    text-shadow: 4px 4px 4px white;
+}
+dt{
+    color: black;
+    text-shadow: 2px 2px 2px white;
 }
